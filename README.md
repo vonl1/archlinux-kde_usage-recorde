@@ -1,6 +1,7 @@
 # archlinux+kde使用记录
 大部分问题archwiki上边都有记录,英语好的可以看英文页面(最新)英语能力差的看简体中文页面(有的会有滞后),没有中文页面的合理使用翻译工具.
 这里边主要记录我个人使用过程中遇见的问题.
+```
                    -`                    kde@ArchLinux 
                   .o+`                   ------------- 
                  `ooo/                   OS: Arch Linux x86_64 
@@ -20,3 +21,4 @@
   `+sso+:-`                 `.-/+oso:    GPU: NVIDIA GeForce GTX 1050 Mobile 
  `++:.                           `-/+/   GPU: Intel HD Graphics 630 
  .`                                 `/   Memory: 5708MiB / 15895MiB 
+```
