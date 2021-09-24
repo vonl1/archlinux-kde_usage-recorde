@@ -3,7 +3,7 @@
 1. `sudo pacman -S ntfs-3g`
 2.  `lsblk -f`记录下需要挂载的ntfs磁盘UUID
 3.  创建一个空的文件夹以供挂载使用,并记下文件夹目录
-4. `sudo vim /etc/fstab'
+4. `sudo vim /etc/fstab`
 ```
 # xxxx是你刚才复制的UUID 磁盘格式是ntfs-3g不要填成ntfs
 UUID=xxxx   挂载的文件夹目录     ntfs-3g    defaults 0 0
