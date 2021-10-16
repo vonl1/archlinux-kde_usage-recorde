@@ -7,4 +7,4 @@
 - `kwin_x11 --replace`
 - `plasmashell --replace`
 - 或者设置快捷键刷新桌面
-`设置`->`快捷键`->`自定义快捷键`->`编辑`->`新建-全局快捷键-命令/url`->触发器:`meta+shift+r`->动作:`kwin_11 --replace`
+`设置`->`快捷键`->`自定义快捷键`->`编辑`->`新建-全局快捷键-命令/url`->`触发器:meta+shift+r`->`动作:kwin_11 --replace`
