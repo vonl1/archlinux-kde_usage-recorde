@@ -24,29 +24,29 @@
 ## 日常软件
 
 ### 聊天软件
-- [Icalingua(QQ)](https://aur.archlinux.org/packages/icalingua/)
-- [wechat-uos(微信)](https://aur.archlinux.org/packages/wechat-uos/)
+- [Icalingua](https://aur.archlinux.org/packages/icalingua/)(QQ)
+- [wechat-uos](https://aur.archlinux.org/packages/wechat-uos/)(微信)
 - [telegram](https://aur.archlinux.org/packages/telegram-desktop-bin/)
 - [discord](https://aur.archlinux.org/packages/discord_arch_electron/)
 - [dingtalk](https://aur.archlinux.org/packages/dingtalk-bin/)
 
 ### 浏览器
-- [Edge(常用)](https://aur.archlinux.org/packages/microsoft-edge-dev-bin/)
+- [Edge](https://aur.archlinux.org/packages/microsoft-edge-dev-bin/)(常用)
 - chrome(unstable)
 
 ### 音乐
-- [yesplaymusic(网抑云第三方客户端)](https://aur.archlinux.org/packages/yesplaymusic/)
+- [yesplaymusic](https://aur.archlinux.org/packages/yesplaymusic/)(网抑云第三方客户端)
 - [spotify](https://aur.archlinux.org/packages/spotify/)
 
 ### 敲代码
 - [vscode](https://aur.archlinux.org/packages/visual-studio-code-bin/)
-- [jetbrain系列(需要用哪个装哪个)](https://aur.archlinux.org/packages/?O=0&SeB=nd&K=jetbrain&outdated=&SB=n&SO=a&PP=50&do_Search=Go)
+- [jetbrain系列)](https://aur.archlinux.org/packages/?O=0&SeB=nd&K=jetbrain&outdated=&SB=n&SO=a&PP=50&do_Search=Go)(需要用哪个装哪个
 - [android-studio](https://aur.archlinux.org/packages/android-studio/)
 
 ### 办公
 - libreoffice-fresh(软件本体)
 - libreoffice-fresh-zh-cn(中文语言)
-- [okular(阅读器)](https://aur.archlinux.org/packages/okular-git/)
+- [okular](https://aur.archlinux.org/packages/okular-git/)(阅读器)
 
 ### 修图,剪视频
 - GIMP(修图)
