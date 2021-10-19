@@ -40,7 +40,7 @@
 
 ### 敲代码
 - [vscode](https://aur.archlinux.org/packages/visual-studio-code-bin/)
-- [jetbrain系列)](https://aur.archlinux.org/packages/?O=0&SeB=nd&K=jetbrain&outdated=&SB=n&SO=a&PP=50&do_Search=Go)(需要用哪个装哪个
+- [jetbrain系列](https://aur.archlinux.org/packages/?O=0&SeB=nd&K=jetbrain&outdated=&SB=n&SO=a&PP=50&do_Search=Go)(需要用哪个装哪个)
 - [android-studio](https://aur.archlinux.org/packages/android-studio/)
 
 ### 办公
