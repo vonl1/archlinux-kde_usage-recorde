@@ -26,7 +26,7 @@
 ### 聊天软件
 - [Icalingua(QQ)](https://aur.archlinux.org/packages/icalingua/)
 - [wechat-uos(微信)](https://aur.archlinux.org/packages/wechat-uos/)
-- [telegram]https://aur.archlinux.org/packages/telegram-desktop-bin/)
+- [telegram](https://aur.archlinux.org/packages/telegram-desktop-bin/)
 - [discord](https://aur.archlinux.org/packages/discord_arch_electron/)
 - [dingtalk](https://aur.archlinux.org/packages/dingtalk-bin/)
 
