@@ -5,14 +5,14 @@
                    -`                    kde@ArchLinux 
                   .o+`                   ------------- 
                  `ooo/                   OS: Arch Linux x86_64 
-                `+oooo:                  Kernel: 5.14.6-arch1-1 
-               `+oooooo:                 Uptime: 10 hours, 49 mins 
-               -+oooooo+:                Packages: 1300 (pacman) 
+                `+oooo:                  Kernel: 5.14.12-arch1-1 
+               `+oooooo:                 Uptime: 1 day, 1 hour, 4 mins 
+               -+oooooo+:                Packages: 1320 (pacman) 
              `/:-:++oooo+:               Shell: fish 3.3.1 
             `/++++/+++++++:              Resolution: 1920x1080 
-           `/++++++++++++++:             DE: Plasma 5.22.5 
+           `/++++++++++++++:             DE: Plasma 5.23.0 
           `/+++ooooooooooooo/`           WM: KWin 
-         ./ooosssso++osssssso+`          WM Theme: Breezemite 
+         ./ooosssso++osssssso+`          WM Theme: Breeze 微风 
         .oossssso-````/ossssss+`         Theme: Breeze Light [Plasma], WhiteSur-light [GTK2/3] 
        -osssssso.      :ssssssso.        Icons: Papirus-Light [Plasma], Papirus-Light [GTK2/3] 
       :osssssss/        osssso+++.       Terminal: konsole 
@@ -20,5 +20,4 @@
    `/ossssso+/:-        -:/+osssso+-     CPU: Intel i5-7300HQ (4) @ 3.500GHz 
   `+sso+:-`                 `.-/+oso:    GPU: NVIDIA GeForce GTX 1050 Mobile 
  `++:.                           `-/+/   GPU: Intel HD Graphics 630 
- .`                                 `/   Memory: 5708MiB / 15895MiB 
 ```
