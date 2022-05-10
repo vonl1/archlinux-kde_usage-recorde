@@ -1,12 +1,6 @@
 # metasploit
 ## ahead
 ```shell
-
-sudo vim /etc/pacman.conf
----
-+ blackarh mirror
----
-sudo pacman -Syy
 sudo pacman -S metasploit postgresql
 ```
 ## config
