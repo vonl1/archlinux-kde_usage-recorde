@@ -50,6 +50,8 @@ db_save
 now everytime you open the msf,you can automatic connect the database.
 
 
+
+keywords: arch install metasploit,archlinux安装metasploit
 >https://techviewleo.com/install-metasploit-framework-on-arch-manjaro-garuda-linux/
 
 >https://techviewleo.com/install-postgresql-on-arch-manjaro-garuda-linux/
