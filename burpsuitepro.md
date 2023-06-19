@@ -1,22 +1,27 @@
 # `yay -S burpsuite-pro`
 
-# download these
-[BurpSuiteLoader.jar](https://github.com/x-Ai/BurpSuite/blob/main/BurpSuiteLoader.jar)
+# Latest Support 2022.8.5
+# `.jar` file preference
 
-[burp-keygen-scz.jar](https://github.com/x-Ai/BurpSuite/blob/main/burp-keygen-scz.jar)
+# download these
+[keygen.jar](https://github.com/SNGWN/Burp-Suite/blob/main/keygen.jar)
+
+[loader](https://github.com/SNGWN/Burp-Suite/blob/main/loader.jar)
 
 # arch burpsuit locate /usr/share/burpsuite-pro/
 ```shell
-cd /usr/share/burpsuite-pro/
-sudo cp BurpSuiteLoader.jar /usr/share/burpsuite-pro/
-sudo cp burp-keygen-scz.jar /usr/share/burpsuite-pro/
+cd /usr/share/burpsuit-pro/
+sudo cp BurpSuiteLoader.jar /usr/share/burpsuit-pro/
+sudo cp burp-keygen-scz.jar /usr/share/burpsuit-pro/
 
-java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:BurpSuiteLoader.jar -noverify -jar burpsuite-pro.jar
+java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:loader.jar -noverify -jar burpsuite_pro_v2022.8.5.jar
 java -jar burp-keygen-scz.jar
 
 
 vim /etc/bash.bashrc
 
-+ alias burpsuit='cd /usr/share/burpsuite-pro/ & java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:BurpSuiteLoader.jar -noverify -jar burpsuite-pro.jar'
++ alias burpsuit='cd /usr/share/burpsuit-pro/ & java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:loader.jar -noverify -jar burpsuite_pro_v2022.8.5.jar'
 ```
->https://www.ddosi.org/burpsuite2021-8-3/
+then you can run burpsuit pro in terminal just one command
+
+>[https://www.ddosi.org/burpsuite2021-8-3/](https://github.com/SNGWN/Burp-Suite)
